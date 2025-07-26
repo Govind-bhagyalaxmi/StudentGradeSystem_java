@@ -12,7 +12,7 @@ public class student {
 			this.rollnumber = rollnumber;
 			this.marks = new ArrayList<>();
 		}
-		//
+		
 		public int getRollnumber() {
 			return rollnumber;
 		}
